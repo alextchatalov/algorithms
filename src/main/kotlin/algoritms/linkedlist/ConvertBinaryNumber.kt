@@ -25,10 +25,6 @@ fun main() {
  * }
  */
 
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
-
 fun getDecimalValue(head: ListNode?): Int {
     var result = ""
     var current = head
