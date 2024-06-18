@@ -1,4 +1,4 @@
-package algoritms
+package algoritms.array
 
 fun main() {
     val result = basicSolution(intArrayOf(1, 2, 1))

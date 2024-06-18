@@ -1,4 +1,4 @@
-package algoritms
+package algoritms.array
 
 class ArrayFromPermutation {
     companion object {

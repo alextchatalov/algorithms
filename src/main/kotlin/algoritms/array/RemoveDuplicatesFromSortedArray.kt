@@ -1,4 +1,4 @@
-package algoritms
+package algoritms.array
 
 // Exercise from leetcode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
